@@ -2,6 +2,7 @@
 	path = gen
 	url = https://github.com/WireCell/wire-cell-gen.git
         update = merge
+	branch = 0.11.x
 [submodule "sst"]
 	path = sst
 	url = https://github.com/WireCell/wire-cell-sst.git
@@ -10,6 +11,7 @@
 	path = iface
 	url = https://github.com/WireCell/wire-cell-iface.git
         update = merge
+	branch = 0.11.x
 [submodule "riodata"]
 	path = riodata
 	url = https://github.com/WireCell/wire-cell-riodata.git
@@ -22,10 +24,7 @@
 	path = util
 	url = https://github.com/WireCell/wire-cell-util.git
         update = merge
-[submodule "dfp"]
-	path = dfp
-	url = https://github.com/WireCell/wire-cell-dfp.git
-        update = merge
+	branch = 0.11.x
 [submodule "alg"]
 	path = alg
 	url = https://github.com/WireCell/wire-cell-alg.git
@@ -42,39 +41,44 @@
 	path = apps
 	url = https://github.com/WireCell/wire-cell-apps.git
         update = merge
+	branch = 0.11.x
 [submodule "wire-cell-tbb"]
 	path = wire-cell-tbb
-	url = https://github.com/WireCell/wire-cell-tbb.git
-        update = merge
-[submodule "tbb"]
-	path = tbb
 	url = https://github.com/WireCell/wire-cell-tbb.git
         update = merge
 [submodule "python"]
 	path = python
 	url = https://github.com/WireCell/wire-cell-python.git
         update = merge
+	branch = 0.11.x
 [submodule "cfg"]
 	path = cfg
 	url = https://github.com/WireCell/wire-cell-cfg.git
         update = merge
+	branch = 0.11.x
 [submodule "sigproc"]
 	path = sigproc
 	url = https://github.com/WireCell/wire-cell-sigproc.git
         update = merge
+	branch = 0.11.x
 [submodule "waftools"]
 	path = waftools
 	url = https://github.com/WireCell/waf-tools.git
         update = merge
+	branch = 0.11.x
 [submodule "sio"]
 	path = sio
 	url = https://github.com/WireCell/wire-cell-sio.git
+	branch = 0.11.x
 [submodule "pgraph"]
 	path = pgraph
 	url = https://github.com/WireCell/wire-cell-pgraph.git
+	branch = 0.11.x
 [submodule "ress"]
 	path = ress
 	url = https://github.com/WireCell/wire-cell-ress.git
+	branch = 0.11.x
 [submodule "img"]
 	path = img
 	url = https://github.com/WireCell/wire-cell-img.git
+	branch = 0.11.x
