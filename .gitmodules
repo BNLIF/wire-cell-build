@@ -68,3 +68,6 @@
 [submodule "util"]
 	path = util
 	url = git@github.com:wirecell/wire-cell-util
+[submodule "waftools"]
+	path = waftools
+	url = git@github.com:wirecell/waf-tools
