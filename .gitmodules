@@ -26,3 +26,45 @@
 	path = wire-cell-tbb
 	url = git@github.com:WireCell/wire-cell-tbb.git
         update = merge
+[submodule "apps"]
+	path = apps
+	url = git@github.com:wirecell/wire-cell-apps
+[submodule "cfg"]
+	path = cfg
+	url = git@github.com:wirecell/wire-cell-cfg
+[submodule "cuda"]
+	path = cuda
+	url = git@github.com:wirecell/wire-cell-cuda
+[submodule "dfp"]
+	path = dfp
+	url = git@github.com:wirecell/wire-cell-dfp
+[submodule "gen"]
+	path = gen
+	url = git@github.com:wirecell/wire-cell-gen
+[submodule "iface"]
+	path = iface
+	url = git@github.com:wirecell/wire-cell-iface
+[submodule "img"]
+	path = img
+	url = git@github.com:wirecell/wire-cell-img
+[submodule "pgraph"]
+	path = pgraph
+	url = git@github.com:wirecell/wire-cell-pgraph
+[submodule "ress"]
+	path = ress
+	url = git@github.com:wirecell/wire-cell-ress
+[submodule "root"]
+	path = root
+	url = git@github.com:wirecell/wire-cell-root
+[submodule "sigproc"]
+	path = sigproc
+	url = git@github.com:wirecell/wire-cell-sigproc
+[submodule "sio"]
+	path = sio
+	url = git@github.com:wirecell/wire-cell-sio
+[submodule "tbb"]
+	path = tbb
+	url = git@github.com:wirecell/wire-cell-tbb
+[submodule "util"]
+	path = util
+	url = git@github.com:wirecell/wire-cell-util
