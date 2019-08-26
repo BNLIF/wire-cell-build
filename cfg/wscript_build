@@ -1,2 +1,0 @@
-bld.install_files('${PREFIX}/share/wirecell',
-                  ['vector.jsonnet', 'wirecell.jsonnet'])
